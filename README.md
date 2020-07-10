@@ -11,5 +11,6 @@ Simon Krull
 
 
 ## Credits:
-[StartBootstrap](https://startbootstrap.com/)
-[Redaxo CMS](https://redaxo.org)
+
+- [StartBootstrap](https://startbootstrap.com/)
+- [Redaxo CMS](https://redaxo.org)
